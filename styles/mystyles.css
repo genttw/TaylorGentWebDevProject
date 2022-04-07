@@ -1,0 +1,19 @@
+/* This will be applied to the about and index pages*/
+
+.upperheader{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: wheat;
+    text-align: center;
+}
+
+.lowerheader{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: darkgrey;
+    text-align: center;
+}
+
+.customnav{
+    color: darkgrey;
+}
+
